@@ -1,14 +1,3 @@
-This is a landing page Templates with bootstrap 4(v4.3.0) and Font Awesome 5
+This is a landing page Template with bootstrap 4(v4.3.0) and Font Awesome 5
 
-<a href="#">Online Demo</a>
-
-<h6>PSD Mockups:</h6>
-
-<h5><strong>Web:<strong></h5>
-<img src="" alt="mockupPSD">
-<br>
-<h5><strong>iPad Pro:<strong></h5>
-<img src="#" alt="mockupiPad">
-
-<h5><strong>iPhone Xs:<strong></h5>
-<img src="#" alt="iPhoneXs">
+<a href="https://evelynkoun.github.io/landing_page/">Online Demo</a>
